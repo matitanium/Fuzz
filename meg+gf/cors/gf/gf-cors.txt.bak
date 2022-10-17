@@ -1,0 +1,1 @@
+gf -save -Hnri cors 'Access-Control-Allow-Origin'
