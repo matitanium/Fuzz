@@ -1,1 +1,1 @@
-gf -save cors -Hnri 'Access-Control-Allow-Origin
+gf -save cors -Hnri 'Access-Control-Allow-Origin'
